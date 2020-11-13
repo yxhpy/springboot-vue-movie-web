@@ -1,0 +1,23 @@
+{
+  "id": "2198101",
+  "name": "movie",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8922379",
+      "name": "电影院",
+      "font_class": "dianyingyuan",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "10599635",
+      "name": "电影票",
+      "font_class": "huangsedianyingpiao",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    }
+  ]
+}

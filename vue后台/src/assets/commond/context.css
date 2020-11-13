@@ -1,0 +1,12 @@
+.ssm-context{
+    /*width: 80%;*/
+    height: 100%;
+    position: absolute;
+    left: 200px;
+    top: 60px;
+    right: 0;
+
+}
+.ssm-context-collapse{
+    left: 64px;
+}
