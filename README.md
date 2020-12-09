@@ -18,7 +18,7 @@
 
 ![](https://ae01.alicdn.com/kf/U971cbbf9366647d6922d665437fe2de9d.jpg)
 
-* [演示后台站](http://cwcc.cf/ssm/)
+* [演示后台站](http://cwcc.cf/admin/)
 
 ![](https://ae01.alicdn.com/kf/U6cc3553bee7c4560a2dd06314a74e62dj.jpg)
 
